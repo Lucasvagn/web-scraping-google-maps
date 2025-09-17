@@ -14,9 +14,11 @@ Este é um script em Python que automatiza a busca e a coleta de dados de locado
 
 Para executar este script, você precisa ter as seguintes bibliotecas instaladas em seu ambiente Python. Você pode instalá-las com o seguinte comando no terminal:
 pip install pandas playwright
+
 ## Como Usar
 
 1.  Baixe o arquivo `main.py` para o seu computador.
 2.  Abra o terminal na pasta onde o arquivo foi salvo.
 3.  Execute o script com o comando:
+3.  python main.py
 4.  O navegador será aberto e a automação começará. Ao final, a planilha Excel será criada na mesma pasta.
