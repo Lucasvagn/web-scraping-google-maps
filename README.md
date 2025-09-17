@@ -19,6 +19,5 @@ pip install pandas playwright
 
 1.  Baixe o arquivo `main.py` para o seu computador.
 2.  Abra o terminal na pasta onde o arquivo foi salvo.
-3.  Execute o script com o comando:
-3.  python main.py
+3.  Execute o script com o comando:  python main.py
 4.  O navegador será aberto e a automação começará. Ao final, a planilha Excel será criada na mesma pasta.
