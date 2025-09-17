@@ -1,0 +1,6 @@
+# Ignorar arquivos de dados e saídas
+*.xlsx
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
